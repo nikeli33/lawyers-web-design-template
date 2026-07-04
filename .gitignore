@@ -6,3 +6,11 @@ coverage/
 *.log
 .env*
 !.env.example
+
+# Локальные конфиги инструментов
+.agents/
+.claude/
+.opencode/
+opencode.jsonc
+mimocode.json
+metadata.json
