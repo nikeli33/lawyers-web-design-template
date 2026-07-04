@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/.aistudio/image.png" alt="Lawyers Web Design Template" width="800" />
+<img src="./header-viewport.png" alt="Lawyers Web Design Template" width="800" />
 
 <br>
 
